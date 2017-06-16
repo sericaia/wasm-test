@@ -1,0 +1,15 @@
+<html>
+  <body>
+    <div>
+    	<p>WASM playground</p>
+    	<div id="counterValue"></div>
+    	<button onClick="inc()">INC</button>
+    	<script src='dist/bundle.js' type='application/javascript'></script>
+  </body>
+
+  <script>
+  	function inc () {
+  	  document.getElementById('counterValue').innerHTML = wasmHelloWorld.inc();
+  	}
+  </script>
+</html>

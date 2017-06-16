@@ -1,0 +1,30 @@
+{
+  "name": "wasm-test",
+  "version": "1.0.0",
+  "description": "This is just a working example using WebAssembly",
+  "main": "index.js",
+  "dependencies": {
+    "wasm-loader": "^1.0.0",
+    "webpack": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sericaia/wasm-test.git"
+  },
+  "keywords": [
+    "wasm",
+    "webassembly",
+    "web",
+    "js"
+  ],
+  "author": "Daniela Matos de Carvalho <alunassertiva@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sericaia/wasm-test/issues"
+  },
+  "homepage": "https://github.com/sericaia/wasm-test#readme"
+}
