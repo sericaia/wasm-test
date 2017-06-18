@@ -14,8 +14,10 @@
 
 
 ##### Useful links
-- [Blogpost with some WebAssembly ideas](http://blog.openbloc.fr/webassembly-first-steps/)
-- [wasm-loader](https://github.com/ballercat/wasm-loader)
 - [WebAssembly wiki](https://github.com/kripken/emscripten/wiki/WebAssembly)
 - [WebAssembly-Standalone wiki](https://github.com/kripken/emscripten/wiki/WebAssembly-Standalone)
+- [wasm-loader](https://github.com/ballercat/wasm-loader)
+- [Blogpost - WebAssembly first steps](http://blog.openbloc.fr/webassembly-first-steps/)
+- [Blogpost - How to get a performance boost using WebAssembly](https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665)
+- [awesome-wasm](https://github.com/mbasso/awesome-wasm) 
 
